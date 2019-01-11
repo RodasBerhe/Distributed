@@ -23,3 +23,4 @@ def main():
                     print(i+1, "EVEN")
 if __name__ == '__main__':
     main()
+//main body has been changed 
